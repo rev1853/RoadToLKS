@@ -12,7 +12,7 @@ namespace Challenges_Level_1_ApiDasar.Controllers
 
 
         [HttpGet("GET")]
-        public string g()
+        public string s()
         {
             return "Hello there, this is the GET ";
         }
