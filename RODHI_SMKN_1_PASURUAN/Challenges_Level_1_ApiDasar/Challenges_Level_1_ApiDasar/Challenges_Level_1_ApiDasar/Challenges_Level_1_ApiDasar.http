@@ -1,0 +1,6 @@
+@Challenges_Level_1_ApiDasar_HostAddress = http://localhost:5165
+
+GET {{Challenges_Level_1_ApiDasar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
