@@ -1,0 +1,6 @@
+@API_Dasar_C_1_HostAddress = http://localhost:5270
+
+GET {{API_Dasar_C_1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
