@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Challenges_Level_1_ApiDasar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee9c4c4ea1298f039e8c43c08e658e660da25c6e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ded5b0a2d906be7ae27c24db4acd416c1b8a020")]
 [assembly: System.Reflection.AssemblyProductAttribute("Challenges_Level_1_ApiDasar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Challenges_Level_1_ApiDasar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
