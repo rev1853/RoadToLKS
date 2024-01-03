@@ -10,7 +10,7 @@ namespace Challenges_Level_1_ApiDasar.Controllers
     {
 
         [HttpGet("Data diri")]
-        public IActionResult b()
+        public IActionResult c()
         {
             var data = new personal
             {
