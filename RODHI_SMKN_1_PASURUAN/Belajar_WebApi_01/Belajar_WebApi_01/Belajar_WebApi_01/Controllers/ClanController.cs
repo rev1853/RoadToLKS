@@ -13,7 +13,7 @@ namespace Belajar_WebApi_01.Controllers
         EsemkaHeroContext context = context;
 
         [HttpGet("clan")]
-        public List<Clan> s()
+        public List<Clan> d()
         {
             return context.Clans.ToList();
         }
