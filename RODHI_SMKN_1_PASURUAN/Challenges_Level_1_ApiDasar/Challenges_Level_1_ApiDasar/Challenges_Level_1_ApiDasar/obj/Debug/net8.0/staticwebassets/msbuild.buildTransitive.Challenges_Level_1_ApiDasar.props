@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Challenges_Level_1_ApiDasar.props" />
-</Project>
