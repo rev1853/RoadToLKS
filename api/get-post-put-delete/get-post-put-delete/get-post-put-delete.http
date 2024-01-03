@@ -1,0 +1,6 @@
+@get_post_put_delete_HostAddress = http://localhost:5012
+
+GET {{get_post_put_delete_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

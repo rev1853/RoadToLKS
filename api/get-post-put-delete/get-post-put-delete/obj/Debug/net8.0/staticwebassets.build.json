@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2bI82VSYGlovMVXom+cUBj5b+dwuLObO0R7ZMqj/jhg=",
+  "Source": "get-post-put-delete",
+  "BasePath": "_content/get-post-put-delete",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

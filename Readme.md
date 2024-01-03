@@ -1,1 +1,1 @@
-FOR LKS ONLY
+Nedy nugroho
