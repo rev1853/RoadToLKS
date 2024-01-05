@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:orientation="vertical">
+        <EditText
+            android:id="@+id/editName"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:hint="Name" />
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Jenis Kelamin"/>
+
+        <RadioGroup
+            android:id="@+id/radioGrub"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+                <RadioButton
+                    android:layout_weight="1"
+                    android:id="@+id/radioLakiLaki"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Laki-Laki"/>
+                <RadioButton
+                    android:layout_weight="1"
+                    android:id="@+id/radioPerempuan"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Perempuan"/>
+
+        </RadioGroup>
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bahasa Pemerogaman"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <CheckBox
+                android:layout_weight="1"
+                android:id="@+id/checkHTML"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="HTML"/>
+            <CheckBox
+                android:layout_weight="1"
+                android:id="@+id/checkCSS"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="CSS"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <CheckBox
+                android:layout_weight="1"
+                android:id="@+id/checkJSON"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="JSON"/>
+            <CheckBox
+                android:layout_weight="1"
+                android:id="@+id/checkXML"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="XML"/>
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/buttonSubmit"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Submit"/>
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CMZXBnEyA0fWBajqglIyYohfxuP7Nt8Y9fuNeY7j9tw1L9imc/ZpWWw9t6B5I0cTF0PaTPbo4g2Pp1AZm8tumA==",
+  "dgSpecHash": "3u3P8/uO+YQQij3TUUM4u7LAKp5jm+iNo4HahU5jVfrVU5wf9d8hZiJvWFW/UmNicY4Zz4tAA9VZEdeXAlaXQQ==",
   "success": true,
-  "projectFilePath": "D:\\RoadToLKS\\Nedy_SMK_NEGERI_2_SINGOSARI\\api\\first\\first\\first.csproj",
+  "projectFilePath": "D:\\RoadToLKS\\api\\first\\first\\first.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

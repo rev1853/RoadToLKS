@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("get-post-put-delete")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24176d064e5cb3cde5d31f371f4daaa5b8f11d1a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c28d83f5cd8d44a7e4cbad9066b0895b57bbb9d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("get-post-put-delete")]
 [assembly: System.Reflection.AssemblyTitleAttribute("get-post-put-delete")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
