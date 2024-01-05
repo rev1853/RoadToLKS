@@ -1,0 +1,18 @@
+package com.example.menampilkan_toast
+
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+import android.widget.Button
+
+class NavigateBetweenActivity4 : AppCompatActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_navigate_between4)
+
+        val back = findViewById<Button>(R.id.back4)
+
+        back.setOnClickListener{
+            finish()
+        }
+    }
+}
