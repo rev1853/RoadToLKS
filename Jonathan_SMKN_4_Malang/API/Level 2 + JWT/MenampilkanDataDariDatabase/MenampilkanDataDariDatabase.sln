@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenampilkanDataDariDatabase", "MenampilkanDataDariDatabase\MenampilkanDataDariDatabase.csproj", "{EA3DA0C9-7E25-4593-9E79-147398E0C427}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA3DA0C9-7E25-4593-9E79-147398E0C427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA3DA0C9-7E25-4593-9E79-147398E0C427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA3DA0C9-7E25-4593-9E79-147398E0C427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA3DA0C9-7E25-4593-9E79-147398E0C427}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46136057-5170-4CFF-B093-5F4AB59A8136}
+	EndGlobalSection
+EndGlobal
