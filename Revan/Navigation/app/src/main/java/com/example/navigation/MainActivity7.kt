@@ -58,7 +58,9 @@ class MainActivity7 : AppCompatActivity() {
                         convertView: View?,
                         parent: ViewGroup
                     ): View {
-                        val binding = SpinnerLayoutBinding.inflate(layoutInflater, parent, false)
+                        var binding: SpinnerLayoutBinding = if (convertView != null) SpinnerLayoutBinding.bind(convertView)
+                        else SpinnerLayoutBinding.inflate(layoutInflater, parent, false)
+
                         val item = getItem(position)
                         binding.nameTv.text = item?.getString("name")
                         binding.ratingTv.text = item?.getString("rating")
@@ -71,7 +73,9 @@ class MainActivity7 : AppCompatActivity() {
                         convertView: View?,
                         parent: ViewGroup
                     ): View {
-                        val binding = DropdownLayoutBinding.inflate(layoutInflater, parent, false)
+                        var binding = if (convertView != null) DropdownLayoutBinding.bind(convertView)
+                        else DropdownLayoutBinding.inflate(layoutInflater, parent, false)
+
                         val item = getItem(position)
                         binding.nameTv.text = item?.getString("name")
                         binding.ratingTv.text = item?.getString("rating")
