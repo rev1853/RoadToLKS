@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_satu" android:title="Menu Satu"/>
+    <item android:id="@+id/menu_dua" android:title="Menu Dua"/>
+    <item android:title="Menu Tiga">
+        <menu xmlns:android="http://schemas.android.com/apk/res/android">
+            <item  android:title="Menu Empat"/>
+            <item android:title="Menu Lima"/>
+        </menu>
+    </item>
+</menu>
