@@ -17,7 +17,7 @@ class MainActivity5 : AppCompatActivity() {
 
 
         val fragments = listOf(SatuFragment(), SecondFragment(), UbigFragment())
-        val menuNames = listOf("Menu 1", "Menu 2", "Menu 3")
+        val menuNames = listOf("Satu", "Dua", "Tiga")
         binding.menuVp.adapter = object : FragmentStateAdapter(supportFragmentManager, lifecycle) {
             override fun getItemCount(): Int = fragments.size
             override fun createFragment(pos: Int): Fragment = fragments[pos]
