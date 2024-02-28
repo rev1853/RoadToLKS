@@ -1,0 +1,15 @@
+C:\Users\risca\projects\RoadToLKS\Revan\SimpleCrud\bin\Debug\SimpleCrud.exe.config
+C:\Users\risca\projects\RoadToLKS\Revan\SimpleCrud\bin\Debug\SimpleCrud.exe
+C:\Users\risca\projects\RoadToLKS\Revan\SimpleCrud\bin\Debug\SimpleCrud.pdb
+C:\Users\risca\projects\RoadToLKS\Revan\SimpleCrud\bin\Debug\EntityFramework.dll
+C:\Users\risca\projects\RoadToLKS\Revan\SimpleCrud\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\risca\projects\RoadToLKS\Revan\SimpleCrud\bin\Debug\EntityFramework.xml
+C:\Users\risca\projects\RoadToLKS\Revan\SimpleCrud\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\risca\projects\RoadToLKS\Revan\SimpleCrud\obj\Debug\SimpleCrud.csproj.AssemblyReference.cache
+C:\Users\risca\projects\RoadToLKS\Revan\SimpleCrud\obj\Debug\SimpleCrud.Form1.resources
+C:\Users\risca\projects\RoadToLKS\Revan\SimpleCrud\obj\Debug\SimpleCrud.Properties.Resources.resources
+C:\Users\risca\projects\RoadToLKS\Revan\SimpleCrud\obj\Debug\SimpleCrud.csproj.GenerateResource.cache
+C:\Users\risca\projects\RoadToLKS\Revan\SimpleCrud\obj\Debug\SimpleCrud.csproj.CoreCompileInputs.cache
+C:\Users\risca\projects\RoadToLKS\Revan\SimpleCrud\obj\Debug\SimpleCrud.csproj.CopyComplete
+C:\Users\risca\projects\RoadToLKS\Revan\SimpleCrud\obj\Debug\SimpleCrud.exe
+C:\Users\risca\projects\RoadToLKS\Revan\SimpleCrud\obj\Debug\SimpleCrud.pdb

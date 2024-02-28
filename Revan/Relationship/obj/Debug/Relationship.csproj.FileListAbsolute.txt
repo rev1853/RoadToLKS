@@ -1,0 +1,15 @@
+C:\Users\risca\projects\RoadToLKS\Revan\Relationship\bin\Debug\Relationship.exe.config
+C:\Users\risca\projects\RoadToLKS\Revan\Relationship\bin\Debug\Relationship.exe
+C:\Users\risca\projects\RoadToLKS\Revan\Relationship\bin\Debug\Relationship.pdb
+C:\Users\risca\projects\RoadToLKS\Revan\Relationship\bin\Debug\EntityFramework.dll
+C:\Users\risca\projects\RoadToLKS\Revan\Relationship\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\risca\projects\RoadToLKS\Revan\Relationship\bin\Debug\EntityFramework.xml
+C:\Users\risca\projects\RoadToLKS\Revan\Relationship\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\risca\projects\RoadToLKS\Revan\Relationship\obj\Debug\Relationship.csproj.AssemblyReference.cache
+C:\Users\risca\projects\RoadToLKS\Revan\Relationship\obj\Debug\Relationship.Form1.resources
+C:\Users\risca\projects\RoadToLKS\Revan\Relationship\obj\Debug\Relationship.Properties.Resources.resources
+C:\Users\risca\projects\RoadToLKS\Revan\Relationship\obj\Debug\Relationship.csproj.GenerateResource.cache
+C:\Users\risca\projects\RoadToLKS\Revan\Relationship\obj\Debug\Relationship.csproj.CoreCompileInputs.cache
+C:\Users\risca\projects\RoadToLKS\Revan\Relationship\obj\Debug\Relationship.csproj.CopyComplete
+C:\Users\risca\projects\RoadToLKS\Revan\Relationship\obj\Debug\Relationship.exe
+C:\Users\risca\projects\RoadToLKS\Revan\Relationship\obj\Debug\Relationship.pdb

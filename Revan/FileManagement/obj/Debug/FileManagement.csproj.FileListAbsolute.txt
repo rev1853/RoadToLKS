@@ -1,0 +1,16 @@
+C:\Users\risca\projects\RoadToLKS\Revan\FileManagement\bin\Debug\FileManagement.exe.config
+C:\Users\risca\projects\RoadToLKS\Revan\FileManagement\bin\Debug\FileManagement.exe
+C:\Users\risca\projects\RoadToLKS\Revan\FileManagement\bin\Debug\FileManagement.pdb
+C:\Users\risca\projects\RoadToLKS\Revan\FileManagement\obj\Debug\FileManagement.csproj.AssemblyReference.cache
+C:\Users\risca\projects\RoadToLKS\Revan\FileManagement\obj\Debug\FileManagement.Form1.resources
+C:\Users\risca\projects\RoadToLKS\Revan\FileManagement\obj\Debug\FileManagement.Properties.Resources.resources
+C:\Users\risca\projects\RoadToLKS\Revan\FileManagement\obj\Debug\FileManagement.csproj.GenerateResource.cache
+C:\Users\risca\projects\RoadToLKS\Revan\FileManagement\obj\Debug\FileManagement.csproj.CoreCompileInputs.cache
+C:\Users\risca\projects\RoadToLKS\Revan\FileManagement\obj\Debug\FileManagement.exe
+C:\Users\risca\projects\RoadToLKS\Revan\FileManagement\obj\Debug\FileManagement.pdb
+C:\Users\risca\projects\RoadToLKS\Revan\FileManagement\bin\Debug\EntityFramework.dll
+C:\Users\risca\projects\RoadToLKS\Revan\FileManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\risca\projects\RoadToLKS\Revan\FileManagement\bin\Debug\EntityFramework.xml
+C:\Users\risca\projects\RoadToLKS\Revan\FileManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\risca\projects\RoadToLKS\Revan\FileManagement\obj\Debug\FileManagement.FormCoba.resources
+C:\Users\risca\projects\RoadToLKS\Revan\FileManagement\obj\Debug\FileManagement.csproj.CopyComplete

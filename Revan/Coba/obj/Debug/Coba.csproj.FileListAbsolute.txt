@@ -1,0 +1,7 @@
+C:\Users\risca\projects\RoadToLKS\Revan\Coba\bin\Debug\Coba.exe.config
+C:\Users\risca\projects\RoadToLKS\Revan\Coba\bin\Debug\Coba.exe
+C:\Users\risca\projects\RoadToLKS\Revan\Coba\bin\Debug\Coba.pdb
+C:\Users\risca\projects\RoadToLKS\Revan\Coba\obj\Debug\Coba.csproj.AssemblyReference.cache
+C:\Users\risca\projects\RoadToLKS\Revan\Coba\obj\Debug\Coba.csproj.CoreCompileInputs.cache
+C:\Users\risca\projects\RoadToLKS\Revan\Coba\obj\Debug\Coba.exe
+C:\Users\risca\projects\RoadToLKS\Revan\Coba\obj\Debug\Coba.pdb

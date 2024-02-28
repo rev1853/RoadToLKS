@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AlbumModelStoreContainer" CdmEntityContainer="AlbumEntities1">
+    <EntitySetMapping Name="Lagu2">
+      <EntityTypeMapping TypeName="AlbumModel.Lagu2">
+        <MappingFragment StoreEntitySet="Lagu2">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Artis" ColumnName="Artis" />
+          <ScalarProperty Name="StudioRekaman" ColumnName="StudioRekaman" />
+          <ScalarProperty Name="Judul" ColumnName="Judul" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
