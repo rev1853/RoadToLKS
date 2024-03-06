@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.EsemkaPetition" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="textAllCaps">false</item>
+        <item name="android:statusBarColor">#6DB9EF</item>
+    </style>
+
+    <style name="Theme.EsemkaPetition" parent="Base.Theme.EsemkaPetition" />
+</resources>
