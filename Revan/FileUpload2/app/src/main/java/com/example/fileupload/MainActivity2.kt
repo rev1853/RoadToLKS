@@ -35,6 +35,7 @@ class MainActivity2 : AppCompatActivity() {
             if (index != -1) binding.menuTl.getTabAt(index)?.select()
         }
 
+
         binding.menuTl.addOnTabSelectedListener(object : OnTabSelectedListener {
             override fun onTabSelected(tab: TabLayout.Tab?) {
                 tab?.let {
